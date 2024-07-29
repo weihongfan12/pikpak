@@ -18,6 +18,7 @@ PUSH_MSG = ''
 
 
 
+
 # 检查变量
 def check_env():
     invite_code_list = []
